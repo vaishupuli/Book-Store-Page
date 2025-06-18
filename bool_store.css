@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background_color {
+    background-color: #1b1b1b;
+
+    background-size: cover;
+    text-align: center;
+}
+
+.first_heading {
+    color: #ffffff;
+    font-family: Bree Serif;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 25px;
+}
+
+.card_container {
+    background-color: #e6f6ff;
+    height: 35vh;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 10px;
+}
+
+.apj {
+    height: 35vh;
+}
+
+.apj_heading {
+    color: #9aa5b1;
+}
+
+.apj_2ndpara {
+    color: #9aa5b1;
+    font-size: 10px;
+}
+
+.apj_para {
+    color: #183b56;
+
+}
+
+.card_content {
+    padding-left: 10px;
+
+    font-family: Roboto;
+}
+
+.chetan_img {
+    height: 30vh;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.chetan_heading {
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.cheaten_para {
+    color: #e4e7eb;
+}
+
+.cheaten_card {
+    padding-left: 10px;
+}
+
+.second_heading {
+    color: #183b56;
+    font-size: 20px;
+}
+
+.apj_2 {
+    height: 45vh;
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+}
+
+.apj_heading {
+    color: #ffffff;
+    text-align: center;
+    font-size: 25px;
+    font-family: Roboto;
+}
+
+.apj-para {
+    color: #e6f6ff;
+    text-align: center;
+    font-size: 12px;
+}
+
+.apjs_para {
+    color: #e6f6ff;
+    text-align: center;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.apj_button {
+    background-color: yellow;
+    border-radius: 10px;
+    border-color: yellow;
+    margin-right: 5px;
+}
